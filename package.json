@@ -1,0 +1,15 @@
+{
+  "name": "broadcast-bot",
+  "version": "1.0.0",
+  "description": "Discord broadcast bot for sending messages to all members",
+  "main": "Broadcast.js",
+  "scripts": {
+    "start": "node Broadcast.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.13.0"
+  },
+  "keywords": ["discord", "bot", "broadcast"],
+  "author": "",
+  "license": "ISC"
+}
